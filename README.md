@@ -1,2 +1,2 @@
 # static
-static repository to test basic functionality
+static repository to test basic functionality!
